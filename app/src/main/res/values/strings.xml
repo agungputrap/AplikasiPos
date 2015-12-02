@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AplikasiPos</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_kasir">KasirActivity</string>
+    <string name="action_sign_out">Sign Out</string>
+    <string name="action_test">coba coba</string>
+    <string name="action_create_shift">Create New Shift</string>
+    <string name="action_create_customer">Create Customer</string>
+    <string name="title_activity_new_customer">NewCustomerActivity</string>
+    <string name="title_activity_create_customer">CreateCustomerActivity</string>
+</resources>
